@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 290">
+<polygon points="150,10 235,55 235,165 150,210 65,165 65,55" fill="none" stroke="#1B3B8C" stroke-width="12" stroke-linejoin="round"/>
+<path d="M95,138 L150,80 L205,138" fill="none" stroke="#1B3B8C" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="105" y="138" width="90" height="45" rx="4" fill="#A9C6F5" stroke="#1B3B8C" stroke-width="6"/>
+<rect x="136" y="155" width="28" height="28" rx="2" fill="#1B3B8C"/>
+<text x="150" y="245" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="2" fill="#1B3B8C">GUTTER</text>
+<text x="150" y="270" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="6" fill="#4C7FDD">REMOVAL DMV</text>
+</svg>
