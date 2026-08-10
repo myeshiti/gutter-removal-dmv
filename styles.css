@@ -136,7 +136,24 @@ nav a:hover, nav a.active { color: var(--navy); }
 
 .hero-content { flex: 1.1; }
 .hero-logo { flex: 0.9; text-align: center; }
-.hero-logo img { width: 300px; margin: 0 auto; }
+.hero-logo img { width: 260px; margin: 0 auto; }
+
+.hero-logo-text { margin-top: 14px; }
+.hero-logo-title {
+  font-family: 'Poppins', Arial, sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: 1px;
+  color: var(--navy);
+}
+.hero-logo-sub {
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 5px;
+  color: var(--blue);
+  margin-top: 2px;
+}
 
 .eyebrow {
   color: var(--blue);
